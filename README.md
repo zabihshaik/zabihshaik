@@ -11,3 +11,6 @@
 
 Connect With Me:
 https://twitter.com/ZabihShaik
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zabihshaik&count_private=true&theme=tokyonight&showicons=true)]()
