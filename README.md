@@ -19,6 +19,8 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-38B2AC?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/React_Router-593D88?style=for-the-badge&logo=react-router&logoColor=white)
+![](https://img.shields.io/badge/Mongo_DB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Connect With Me 🔗 
 https://www.linkedin.com/in/zabihullashaik   
