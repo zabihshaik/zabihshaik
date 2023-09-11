@@ -30,4 +30,4 @@ https://twitter.com/ZabihShaik
 [![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=zabihshaik&count_private=true&theme=tokyonight&show_icons=true&icon_color=3cb0fa)]()
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zabihshaik&show_icons=true&locale=en&layout=compact" alt="zabihshaik" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabihshaik&" alt="zabihshaik" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zabihshaik&" alt="zabihshaik" /></p>
