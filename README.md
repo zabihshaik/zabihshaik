@@ -3,9 +3,9 @@
 # Hi 👋 , I'm Zabihulla Shaik, Web Developer
           
 - 🔭 I’m currently working on HTML, CSS and JavaScript
-- 🌱 I’m currently building projects with MERN Stack
-- 👯 I’m looking to collaborate on GitHub and Open Source
-- 🤔 I’m looking for help with Open Source Contribution
+- 🌱 I’m currently building projects with MERN Stack, Typescript
+- 👯 I’m looking to collaborate on GitHub and Open Source Projects
+- 🔭 Working on Omdena UAE Local Chapter Challenge as a Collaborator
 - 💬 Ask me about Web Development
 - 📫 How to reach me: informshaikz@gmail.com
 - ⚡ Fun fact: Transitioned into Web Development in 2021 after working as an Accounts Manager for around 7 years in UAE.
@@ -30,4 +30,4 @@ https://twitter.com/ZabihShaik
 [![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=zabihshaik&count_private=true&theme=tokyonight&show_icons=true&icon_color=3cb0fa)]()
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zabihshaik&show_icons=true&locale=en&layout=compact" alt="zabihshaik" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zabihshaik&" alt="zabihshaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabihshaik&" alt="zabihshaik" /></p>
