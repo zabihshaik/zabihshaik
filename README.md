@@ -10,6 +10,8 @@
 - 📫 How to reach me: informshaikz@gmail.com
 - ⚡ Fun fact: Transitioned into Web Development in 2021 after working as an Accounts Manager for around 7 years in UAE.
 
+[![An image of @zabihshaik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zabihshaik)](https://holopin.io/@zabihshaik)
+
 ## My Skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
